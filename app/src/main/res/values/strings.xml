@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Expedition</string>
+
+    <string name="exception_tango_error">"Tango exception! Try again!"</string>
+    <string name="exception_tango_invalid">"Tango invalid exception! Try again!"</string>
+    <string name="exception_out_of_date">"Tango service outdated!"</string>
 </resources>
